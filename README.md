@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# 🌟 National Association of Asipa Students (NAAS) – Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the official repository for the **National Association of Asipa Students (NAAS)** Landing Page.
 
-## Available Scripts
+This project aims to provide an engaging, informative, and responsive website that promotes the identity, programs, and community values of NAAS — a student-led organization committed to the academic, cultural, and leadership development of all students of Asipa origin.
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 🧾 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About NAAS](#about-naas)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `yarn test`
+## 📘 About NAAS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**National Association of Asipa Students (NAAS)** is a unifying body for all students of Asipa origin across institutions. It exists to promote unity, support academic excellence, preserve cultural heritage, and foster leadership and community service among its members.
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌟 Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Hero section with call-to-action buttons
+- About NAAS introduction
+- Core pillars: Academic Support, Culture, Leadership, Welfare, and Community Service
+- Dynamic Events showcase
+- Testimonials from members
+- Executive team section
+- Get Involved form
+- Contact and social links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+## 🛠 Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- HTML5 / CSS3 / JavaScript  
+*(or ReactJS + TailwindCSS if using a modern frontend stack)*  
+- Responsive Web Design  
+- Git & GitHub for version control
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Setup Instructions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Using Plain HTML/CSS/JS:
+```bash
+1. Clone the repo:
+   git clone https://github.com/your-username/naas.git
 
-## Learn More
+2. Navigate into the folder:
+   cd naas
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Open index.html in your browser
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repo:
+   git clone https://github.com/your-username/naas.git
 
-### Code Splitting
+2. Navigate into the folder:
+   cd naas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Install dependencies:
+   npm install
 
-### Analyzing the Bundle Size
+4. Run the development server:
+   npm run dev
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+📬 Contact
+📧 Email: naasofficial@gmail.com
 
-### Making a Progressive Web App
+📱 Instagram: @naas_ng
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🌐 Website: [Coming Soon]
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+## 🌟 Author
+Taiwo Ayomide
