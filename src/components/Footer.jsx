@@ -211,7 +211,18 @@ export default function App() {
         <a
           className="font-semibold text-neutral-600 dark:text-neutral-400"
           href="/"
-        >Connectpro Apps Limited</a>
+        >National Association of Asipa Students</a>
+      </div>
+
+      {/* <!--Powered section--> */}
+      <div className="bg-neutral-500 p-2 text-center">
+        <span>Powered by </span>
+        <a
+          className="font-semibold text-neutral-600 dark:text-neutral-400"
+          href="https://connectproappslimited.vercel.app"
+          target='_blank'
+          rel="noopener noreferrer"
+        >Connectpro</a>
       </div>
     </footer>
   );

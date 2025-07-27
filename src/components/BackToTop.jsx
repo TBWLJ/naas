@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { FaArrowUp } from "react-icons/fa"; // Install react-icons if not already
+import { FaArrowUp } from "react-icons/fa";
 
 const BackToTop = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -33,7 +33,7 @@ const BackToTop = () => {
       {isVisible && (
         <button
           onClick={scrollToTop}
-          className="p-8 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-500 focus:outline-none"
+          className="p-8 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-500 focus:outline-none"
           aria-label="Scroll to top"
         >
           <FaArrowUp />

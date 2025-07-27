@@ -63,7 +63,7 @@ const Form = () => {
         <div className='flex justify-end mt-6'>
           <button
             type="submit"
-            className='bg-blue-600 text-white font-semibold py-2 px-6 rounded hover:bg-blue-700'
+            className='bg-green-600 text-white font-semibold py-2 px-6 rounded hover:bg-green-700'
           >
             Submit
           </button>

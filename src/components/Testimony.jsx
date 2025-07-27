@@ -5,7 +5,7 @@ import {
   CardHeader,
 } from "@material-tailwind/react";
 
-function TestimonialCard({ img, client, title, clientInfo }) {
+function TestimonialCard({ client, title, clientInfo }) {
   return (
     <Card shadow={false} className="bg-blue-200 rounded-2xl p-6">
       <CardHeader color="transparent" floated={false} shadow={false}>
@@ -28,7 +28,7 @@ function TestimonialCard({ img, client, title, clientInfo }) {
             {clientInfo}
           </Typography>
         </div>
-        <img src={img} className="max-w-[8rem]" alt={client} />
+        {/* <img src={img} className="max-w-[8rem]" alt={client} /> */}
       </CardBody>
     </Card>
   );
@@ -38,16 +38,16 @@ const testimonials = [
   {
     title:
       "Serving as a NAAS campus coordinator taught me responsibility, teamwork, and how to lead with integrity. NAAS prepared me for both school and life.",
-    client: "Tito",
-    clientInfo: "Writer",
-    img: "titos.png",
+    client: "Ojo Anu",
+    clientInfo: "Obafemi Awolowo University",
+    // img: "titos.png",
   },
   {
     title:
       "During a difficult financial period, NAAS stepped in to support me with resources and a small scholarship that kept me in school. I’ll forever be grateful.",
-    client: "Reuben",
-    clientInfo: "Farmer",
-    img: "afric.png",
+    client: "Amusan Ebenezer",
+    clientInfo: "Obafemi Awolowo University",
+    // img: "afric.png",
   },
 ];
 
@@ -89,13 +89,13 @@ export function Testimony() {
           </CardHeader>
           <CardBody className="items-center mx-auto py-2">
             <Typography variant="h6" color="blue">
-              Exo
+              Taiwo Ayomide
             </Typography>
             <Typography
               variant="paragraph"
               className="font-normal !text-gray-500"
             >
-              Software Professional
+              Ladoke Akintola University of Technology
             </Typography>
           </CardBody>
         </Card>

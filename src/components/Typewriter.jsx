@@ -10,7 +10,7 @@ const TypeError = () => {
         <span style={{ color: 'white', fontWeight: 'bold' }}>
           {/* Style will be inherited from the parent element */}
           <Typewriter
-            words={['LIMITLESS', 'UNDEFITED ', 'APPLICATION']}
+            words={['LIMITLESS', 'UNDEFEATED', 'MOVING']}
             loop={false}
             cursor
             cursorStyle='|'

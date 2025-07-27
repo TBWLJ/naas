@@ -16,28 +16,10 @@ const Location = () => {
               </a>
             </div>
             <div
-              className="w-full sm:w-96 bg-blue-200 mt-10 p-5 flex flex-col items-center"
+              className="w-full sm:w-96 bg-green-200 mt-10 p-5 flex flex-col items-center"
             >
               <h1 className="font-bold text-xl uppercase">Email us:</h1>
-              <p className="text-lg text-center pt-5">support@connectproappslimited.com</p>
-            </div>
-            <div
-              className="w-full sm:w-96 bg-green-200 mt-10 p-5 flex flex-col items-center"
-            >
-              <h1 className="font-bold text-xl uppercase">GHANA OFFICE:</h1>
-              <p className="text-lg text-center pt-5">Tema Express Road, Along Tema Sea port, Accra, Ghana</p>
-            </div>
-            <div
-              className="w-full sm:w-96 bg-green-200 mt-10 p-5 flex flex-col items-center"
-            >
-              <h1 className="font-bold text-xl uppercase">ogbomoso OFFICE:</h1>
-              <p className="text-lg text-center pt-5">1500LT Junction, Under G Lautech Area, Ogbomoso, Oyo State, Nigeria.</p>
-            </div>
-            <div
-              className="w-full sm:w-96 bg-blue-200 mt-10 p-5 flex flex-col items-center"
-            >
-              <h1 className="font-bold text-xl uppercase">Ile Ife OFFICE:</h1>
-              <p className="text-lg text-center pt-5">Ife - Ibadan Express way, Akinlalu Township, Akinlalu-Ife, Osun State, Nigeria.</p>
+              <p className="text-lg text-center pt-5">support@naas.org</p>
             </div>
             <div
               className="w-full sm:w-96 bg-red-200 mt-10 p-5 flex flex-col items-center"
