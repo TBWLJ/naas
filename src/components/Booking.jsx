@@ -8,11 +8,11 @@ const Booking = () => {
         <h1 className='font-bold text-xl'>Get Started</h1>
       </div>
       <div className='pt-12'>
-        <h1 className='text-5xl'>Ready for your next<br/>Life-Transforming Solution</h1>
+        <h1 className='text-5xl'>Ready for to join the<br/>Life-Transforming society.</h1>
       </div>
       <div className='pt-24'>
         <Link to="/contact">
-          <button className='bg-green-900 pl-20 pr-20 pt-5 pb-5 rounded-lg text-white text-xl font-bold'>Request a callback</button>
+          <button className='bg-green-900 pl-20 pr-20 pt-5 pb-5 rounded-lg text-white text-xl font-bold'>Request to join</button>
         </Link>
       </div>
     </div>
