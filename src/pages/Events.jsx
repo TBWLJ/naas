@@ -9,7 +9,7 @@ const Events = () => {
         </div>
         <section className="flex flex-wrap justify-evenly px-5 pb-10" data-aos="fade-up" data-aos-easing="linear"
         data-aos-duration="1500">
-          <h1>No events yet</h1>
+          <h1>No upcoming events yet</h1>
         </section>
       </>
     );

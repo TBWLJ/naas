@@ -66,8 +66,7 @@ export function Testimony() {
           variant="lead"
           className="max-w-3xl !text-gray-500 mb-10 lg:mb-20"
         >
-          From life-enhancing gadgets to unparalleled customer support, and
-          transformative learning opportunities.
+        
         </Typography>
         <div className="grid gap-8 grid-cols-1 lg:grid-cols-2">
           {testimonials.map((props, key) => (

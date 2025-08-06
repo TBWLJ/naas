@@ -13,7 +13,7 @@ const Solutionn = () => {
           "NAAS proudly preserves and promotes the rich cultural values of the Asipa community through events, awareness campaigns, and cultural celebrations.",
       },
       {
-        title: "Leadership & Empowerment",
+        title: "Leadership Opportunity",
         description:
           "We nurture tomorrow's leaders by offering leadership training, public speaking sessions, and opportunities to serve within NAAS at various capacities.",
       },
@@ -23,7 +23,7 @@ const Solutionn = () => {
           "Giving back to Asipa is at the heart of our mission. We organize outreach programs, health drives, town cleanups, and youth empowerment projects.",
       },
       {
-        title: "Student Welfare",
+        title: "Event Organization",
         description:
           "From campus orientation to emotional and financial support, NAAS is committed to ensuring the well-being and success of every Asipa student.",
       },

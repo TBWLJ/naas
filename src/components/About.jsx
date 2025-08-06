@@ -10,7 +10,7 @@ const About = () => {
                 <img src="naas.png" className='w-96' loading='lazy' alt="naas_logo" />
             </div>
             <div className='flex xl:justify-end lg:justify-end md:justify-center sm:justify-start justify-start pt-10'>
-                <h1 className='text-white xl:w-7/12 lg:w-7/12 md:7/12 sm:w-9/12 w-full leading-8 text-justify'>The National Association of Asipa Students (NAAS) is a unifying body committed to fostering academic excellence, cultural heritage, and community development among students of Asipa origin. Through collaboration, empowerment programs, and advocacy, NAAS promotes the welfare, unity, and progress of its members both on campus and beyond.</h1>
+                <h1 className='text-white xl:w-7/12 lg:w-7/12 md:7/12 sm:w-9/12 w-full leading-8 text-justify'>NAAS is a student association that represents and serves the interests of students within an educational institution. It provides a platform for students to develop leadership skills, engage in community service, and advocate for student welfare. Through various activities and initiatives, NAAS foster academic excellence, personal growth, and social responsibility, ultimately enhancing the overall student experience.</h1>
             </div>
         </section>
     </section>

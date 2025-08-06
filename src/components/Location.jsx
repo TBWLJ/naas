@@ -12,7 +12,7 @@ const Location = () => {
             >
               <h1 className="font-bold text-xl uppercase">Call us:</h1>
               <a href="tel:+2348120940814">
-                <p className="text-lg text-center pt-5">+2348120940814 <br/> +2348141242512</p>
+                <p className="text-lg text-center pt-5">+2347037488314 <br/> +2349163587456</p>
               </a>
             </div>
             <div
@@ -24,8 +24,8 @@ const Location = () => {
             <div
               className="w-full sm:w-96 bg-red-200 mt-10 p-5 flex flex-col items-center"
             >
-              <h1 className="font-bold text-xl uppercase">Asipa OFFICE:</h1>
-              <p className="text-lg text-center pt-5">Asipa-Akinlalu Express Road, Asipa, Ife North, Osun State, Nigeria.</p>
+              <h1 className="font-bold text-xl uppercase">OFFICE:</h1>
+              <p className="text-lg text-center pt-5">Asipa, Ife North, Osun State, Nigeria.</p>
             </div>
         </section>
         <hr />

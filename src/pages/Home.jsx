@@ -1,10 +1,7 @@
 import React from 'react'
 import TypeError from '../components/Typewriter'
 import About from '../components/About'
-import Motto from '../components/Motto'
 import Solutionn from '../components/Solutionn'
-import Partner from '../components/Partner'
-import Services from '../components/Services'
 import Testimony from '../components/Testimony'
 import Booking from '../components/Booking'
 import Footer from '../components/Footer'
@@ -25,7 +22,7 @@ const Home = () => {
         <Footer />
         <div className="landing-page">
           <a
-            href="https://wa.me/2348120940814"
+            href="https://wa.me/2347037488314"
             target="_blank"
             rel="noopener noreferrer"
             className="whatsapp-icon"
