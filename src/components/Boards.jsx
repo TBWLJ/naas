@@ -2,10 +2,10 @@ import React from 'react';
 
 const boardsData = [
   {
-    name: 'Comrade Ojo Anuoluwapo',
-    role: 'President',
+    name: 'Comrade Ojo Anuoluwapo Amos',
+    role: 'President || 07037488314',
     imgSrc: 'anu.jpeg',
-    phone: '07037488314'
+    phone: ''
   },
   {
     name: 'Comrade Odeniyi Ayomide Christianah',
@@ -28,7 +28,7 @@ const boardsData = [
     imgSrc: 'ebenezer.jpeg',
   },
   {
-    name: 'Comrade Ojediran Precious Ayomide',
+    name: 'Comrade (Prince) Oyekanmi Ridwan Iremide',
     role: 'Treasurer || 08125749712',
     imgSrc: 'ridwan.jpeg',
   },

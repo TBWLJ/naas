@@ -113,10 +113,10 @@ export default function App() {
                 >Summer school</a>
               </p>
             </Link>
-            <p className="mb-4">
+            {/* <p className="mb-4">
               <a className="text-neutral-600 dark:text-neutral-200"
               >Summer school</a>
-            </p>
+            </p> */}
           </div>
           {/* <!-- Useful links section --> */}
           <div className="">

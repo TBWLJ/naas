@@ -24,8 +24,8 @@ const Location = () => {
             <div
               className="w-full sm:w-96 bg-red-200 mt-10 p-5 flex flex-col items-center"
             >
-              <h1 className="font-bold text-xl uppercase">OFFICE:</h1>
-              <p className="text-lg text-center pt-5">Asipa, Ife North, Osun State, Nigeria.</p>
+              <h1 className="font-bold text-xl uppercase">NAAS OFFICE:</h1>
+              <p className="text-lg text-center pt-5">Asipa Market square, Asipa Ife-North LG. Osun state, Nigeria.</p>
             </div>
         </section>
         <hr />

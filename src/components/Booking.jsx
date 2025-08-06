@@ -8,7 +8,7 @@ const Booking = () => {
         <h1 className='font-bold text-xl'>Get Started</h1>
       </div>
       <div className='pt-12'>
-        <h1 className='text-5xl'>Ready for to join the<br/>Life-Transforming society.</h1>
+        <h1 className='text-5xl'>Ready to join a<br/>Life-Transforming community?</h1>
       </div>
       <div className='pt-24'>
         <Link to="/contact">
